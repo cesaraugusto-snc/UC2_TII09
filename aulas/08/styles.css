@@ -1,0 +1,44 @@
+header {
+    background-color: #333;
+    color: white;
+    padding: 5px 20px 5px 20px; /* padding destanciamento do conteudo*/
+    text-align:center;  
+    margin: 0px 0px 30px 0px; /*margin distancia do elemento todo, ex: distanciar o padding */
+
+}
+nav ul{
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+
+}
+
+nav ul li{
+    display: inline;
+    margin-right: 15px;
+}
+main{
+    margin: 15px;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+section{
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+aside{
+    background-color: aqua;
+    padding: 15px;
+    border-left: 5px solid;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding:5px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
