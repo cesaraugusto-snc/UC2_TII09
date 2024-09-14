@@ -19,7 +19,6 @@ header {
 h1, h2, h3, h4 {
     margin-bottom: 20px;
     font-weight: 700px;
-    
 }
 
 nav ul{ 
@@ -47,9 +46,7 @@ main {
 section {
     background-color: white;
     padding: 15px;
-    margin-bottom: 20px;
     border-radius: 5px;
-    
 }
 
 p {
@@ -72,12 +69,4 @@ pre {
     padding: 15px;
     margin: 15px;
     box-shadow: 2px 2px 12px 2px rgba(0, 0, 0, 0,3);   /* efeito sombra "parece que fica uma sensação de mais próximo" */
-}
-aside{
-    background-color: #e9ecef;
-    padding: 15px;
-    border-left: 4px solid;
-}
-aside ul li{
-    margin-left: 15px;
 }
