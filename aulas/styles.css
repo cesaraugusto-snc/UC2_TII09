@@ -70,3 +70,12 @@ th {
 td {
     background-color: #f1f1f1;
 }
+pre{
+    background-color: rgb(150, 150, 150);
+    border-radius: 4px;
+}
+
+code{
+    font-size: 1.1rem;
+    font-weight: 500;
+}
